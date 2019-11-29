@@ -9,7 +9,7 @@ Place the flowrules.py in ~/pox/pox/forwarding
   python demo.py
 
 
-Project about mitigating ARP_SPOOFING ATTACKS
+Project about reducing ARP_SPOOFING ATTACKS
 
 We have different set of conditions to check for REPLY and REQUEST packets. 
 
